@@ -12,7 +12,7 @@ Software Developer
 
 
 ## IDEs
-<a href="https://www.jetbrains.com/idea/"><img src="https://www.pikpng.com/pngvi/TRT_intellij-idea-logo-png-transparent-intellij-idea-logo/" align="left" width=35></a>
+<a href="https://www.jetbrains.com/idea/"><img src="https://www.reshiftsecurity.com/wp-content/uploads/2020/06/IntelliJIDEA_icon-768x397.png" align="left" width=35></a>
 <a href="https://visualstudio.microsoft.com/de/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg"  align="left" width=35></a>
 <a href="https://netbeans.apache.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg"  align="left" width=35></a>
 <a href="https://www.eclipse.org/ide/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Eclipse-SVG.svg"  align="left" width=35></a>
