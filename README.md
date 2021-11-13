@@ -1,6 +1,7 @@
 ### Hi there I am  Ray Neumann 👋
- <hr />
 Software Developer
+ <hr />
+
 
 <!--
 **RayNeumann/RayNeumann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
