@@ -3,8 +3,8 @@ Software Developer
  <hr />
 
 ## Languages & Frameworks
-[<img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" width=50 align="left">]
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png" width=50 align="left">]
+<img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" width=50 align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png" width=50 align="left">
 
 
 
