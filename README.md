@@ -5,7 +5,7 @@ Software Developer
 ## Languages & Frameworks
 <a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" width=35 align="left"></a>
 <a href="https://angular.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png" width=35 align="left"></a>
-<a href="https://nodejs.org/en/"><img src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" width=35 align="left"></a>
+<a href="https://nodejs.org/en/"><img src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" width=31 align="left"></a>
 <a href="https://dart.dev/"><img src="https://user-images.githubusercontent.com/26507463/53453892-49908900-3a04-11e9-9dce-77ed3d694326.png" width=35 align="left"></a>
 <a href="https://flutter.dev/"><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/flutter_icon_130936.png" width=35 align="left"></a>
 <a href="https://firebase.google.com/"><img src="https://camo.githubusercontent.com/b60dbebe62aa667888aeb73e44c20f828aa5681cfdb0824730e147564fd7f92c/68747470733a2f2f6d706e672e706e67666c792e636f6d2f32303138303431372f7073652f6b697373706e672d66697265626173652d636c6f75642d6d6573736167696e672d636f6d70757465722d69636f6e732d676f6f676c652d636c6f2d6769746875622d35616435643363653233396362362e383532353233313631353233393632383330313435392e6a7067" width=35 align="left"></a>
