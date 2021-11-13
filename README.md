@@ -2,7 +2,7 @@
 Software Developer
  <hr />
 
-#### Languages & Frameworks
+## Languages & Frameworks
 <a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" width=35 align="left"></a>
 <a href="https://angular.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png" width=35 align="left"></a>
 <a href="https://dart.dev/"><img src="https://user-images.githubusercontent.com/26507463/53453892-49908900-3a04-11e9-9dce-77ed3d694326.png" width=35 align="left"></a>
