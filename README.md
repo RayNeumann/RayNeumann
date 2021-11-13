@@ -3,7 +3,7 @@ Software Developer
  <hr />
 
 ## Languages
-<img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" width=100t>
+<img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" width=50>
 
 <!--
 **RayNeumann/RayNeumann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
