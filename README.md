@@ -3,7 +3,7 @@ Software Developer
  <hr />
 
 ## Languages
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png)
 
 <!--
 **RayNeumann/RayNeumann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
