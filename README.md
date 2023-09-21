@@ -19,10 +19,10 @@ Software Developer
 <a href="https://visualstudio.microsoft.com/de/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg"  align="left" width=35></a>
 <a href="https://netbeans.apache.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg"  align="left" width=32></a>
 <a href="https://www.eclipse.org/ide/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Eclipse-SVG.svg"  align="left" width=35></a>
-<a href="https://www.eclipse.org/ide/"><img src="https://commons.wikimedia.org/wiki/File:Android_Studio_Icon_3.6.svg"  align="left" width=35></a>
+<a href="https://www.eclipse.org/ide/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Android_Studio_Icon_%282014-2019%29.svg"  align="left" width=35></a>
 
 
-
+<br/><br/><br/>
 - 🔭 I’m currently working on learning Spring Boot
 <!--
 **RayNeumann/RayNeumann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
