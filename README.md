@@ -1,41 +1,59 @@
-### Hi there I am  Ray Neumann 👋
-Software Developer
- <hr />
+# Hi there, I'm Ray Neumann 👋  
+**Software Developer | Mobile & Web Enthusiast**
 
-## Languages, Frameworks & Platforms
-<a href="https://dart.dev/"><img src="https://user-images.githubusercontent.com/26507463/53453892-49908900-3a04-11e9-9dce-77ed3d694326.png" width=35 align="left"></a>
-<a href="https://flutter.dev/"><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/flutter_icon_130936.png" width=35 align="left"></a>
-<a href="https://firebase.google.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Firebase_Logo.png" width=100 align="left"></a>
-<a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" width=35 align="left"></a>
-<a href="https://angular.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png" width=35 align="left"></a>
-<a href="https://nodejs.org/en/"><img src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" width=32 align="left"></a>
-<a href="https://www.mysql.com/"><img src="https://camo.githubusercontent.com/f85f882cb31eeaeee657ec955313015c30378e8f56c3dc2f06933b617a276cfd/68747470733a2f2f77372e706e6777696e672e636f6d2f706e67732f3734372f3739382f706e672d7472616e73706172656e742d6d7973716c2d6c6f676f2d6d7973716c2d64617461626173652d7765622d646576656c6f706d656e742d636f6d70757465722d736f6674776172652d646f6c7068696e2d6d6172696e652d6d616d6d616c2d616e696d616c732d746578742d7468756d626e61696c2e706e67" width=35 align="left"></a>
-<a href="https://www.php.net/"><img src="https://www.php.net//images/logos/new-php-logo.svg" width=50 ></a>
-<br /><br />
+---
 
+### 🔧 Languages, Frameworks & Platforms
+<div align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</div>
 
-## IDEs
-<a href="https://www.jetbrains.com/idea/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" align="left" width=35></a>
-<a href="https://visualstudio.microsoft.com/de/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg"  align="left" width=35></a>
-<a href="https://netbeans.apache.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg"  align="left" width=32></a>
-<a href="https://www.eclipse.org/ide/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Eclipse-SVG.svg"  align="left" width=35></a>
-<a href="https://www.eclipse.org/ide/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Android_Studio_Icon_%282014-2019%29.svg"  align="left" width=35></a>
+---
 
+### 🧠 IDEs I Use
+<div align="center">
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+</div>
 
-<br/><br/><br/>
-- 🔭 I’m currently working on learning Spring Boot
-<!--
-**RayNeumann/RayNeumann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- 
+- [**getting-fishy**](https://github.com/RayNeumann/getting-fishy)  
+  Cool React app built using React.js, hooks, and animations. Fun and creative UI.
+
+---
+
+### 🧭 Currently Exploring
+- 🌱 **Spring Boot** for Java-based backend
+- 🌐 **Flutter Web** deployment + responsiveness
+- ☁️ **Firebase Functions & Hosting**
+
+---
+
+### 💬 Developer Quote
+> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
+
+---
+
+### 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RayNeumann&show_icons=true&theme=transparent" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayNeumann&layout=compact&theme=transparent" />
+</div>
+
+---
+
+### 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/rayneumann)
+- Personal site coming soon...
