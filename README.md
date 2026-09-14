@@ -1,59 +1,73 @@
-# Hi there, I'm Ray Neumann 👋  
-**Software Developer | Mobile & Web Enthusiast**
+# Hey, I'm Ray 👋
+
+### Senior Mobile Engineer | Flutter & Dart | 15+ years in software development
+
+I'm a senior software engineer based in Berlin, specialising in Flutter and production mobile applications.
+
+My work spans mobile architecture, feature development, performance, analytics, observability, CI/CD and technical ownership across the full delivery lifecycle.
+
+I also bring a broader web and backend engineering background, and I'm currently expanding deeper into AI engineering and agentic development workflows.
 
 ---
 
-### 🔧 Languages, Frameworks & Platforms
-<div align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</div>
+### 📱 Core Mobile Stack
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ---
 
-### 🧠 IDEs I Use
-<div align="center">
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-</div>
+### 🧩 Broader Engineering Background
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
-### 🚀 Featured Projects
+### 🛠️ Engineering & Delivery
 
-- [**getting-fishy**](https://github.com/RayNeumann/getting-fishy)  
-  Cool React app built using React.js, hooks, and animations. Fun and creative UI.
-
----
-
-### 🧭 Currently Exploring
-- 🌱 **Spring Boot** for Java-based backend
-- 🌐 **Flutter Web** deployment + responsiveness
-- ☁️ **Firebase Functions & Hosting**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
-### 💬 Developer Quote
-> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
+### 🤖 AI Assisted Development
+
+![Cursor](https://img.shields.io/badge/Cursor-AI-000000?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-AI-D97757?style=for-the-badge)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+
+I use AI assisted development as part of my engineering workflow for implementation, analysis, refactoring and experimentation, while keeping architecture, validation and engineering decisions human owned.
 
 ---
 
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RayNeumann&show_icons=true&theme=transparent" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayNeumann&layout=compact&theme=transparent" />
-</div>
+### 🧠 Currently Deepening
+
+🤖 Agentic AI & AI Engineering  
+☕ Spring Boot and modern Java backend development
+
+---
+
+### 💼 About my GitHub
+
+Most of my recent production work has been developed in private company repositories.
+
+The public repositories here include side projects, experiments and work from different stages of my development career, so they represent only a small part of my professional engineering work.
 
 ---
 
 ### 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/rayneumann)
-- Personal site coming soon...
+
+[LinkedIn](https://www.linkedin.com/in/rayneumann)
