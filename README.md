@@ -2,11 +2,9 @@
 
 ### Senior Mobile Engineer | Flutter & Dart | 15+ years in software development
 
-I'm a senior software engineer based in Berlin, specialising in Flutter and production mobile applications.
+I’m a senior software engineer based in Berlin, specialising in Flutter and production mobile applications.
 
-My work spans mobile architecture, feature development, performance, analytics, observability, CI/CD and technical ownership across the full delivery lifecycle.
-
-I also bring a broader web and backend engineering background, and I'm currently expanding deeper into AI engineering and agentic development workflows.
+My work spans mobile architecture, feature development, performance, analytics, observability, CI/CD and technical ownership across the full delivery lifecycle. I also bring a broader web and backend engineering background and am currently expanding into AI engineering and agentic development workflows.
 
 ---
 
@@ -40,23 +38,25 @@ I also bring a broader web and backend engineering background, and I'm currently
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Codemagic](https://img.shields.io/badge/Codemagic-F45E3F?style=for-the-badge&logo=codemagic&logoColor=white)
 
 ---
 
-### 🤖 AI Assisted Development
+### 🤖 AI Assisted Workflow
 
 ![Cursor](https://img.shields.io/badge/Cursor-AI-000000?style=for-the-badge)
 ![Claude](https://img.shields.io/badge/Claude-AI-D97757?style=for-the-badge)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 
-I use AI assisted development as part of my engineering workflow for implementation, analysis, refactoring and experimentation, while keeping architecture, validation and engineering decisions human owned.
+I use AI tools across implementation, analysis, refactoring and experimentation, while maintaining engineering ownership of architecture, validation and technical decisions.
 
 ---
 
-### 🧠 Currently Deepening
+### 🧠 Currently Focus
 
 🤖 Agentic AI & AI Engineering  
 ☕ Spring Boot and modern Java backend development
+🖥️ backend development
 
 ---
 
