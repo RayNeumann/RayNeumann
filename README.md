@@ -55,7 +55,7 @@ I use AI tools across implementation, analysis, refactoring and experimentation,
 ### 🧠 Currently Focus
 
 🤖 Agentic AI & AI Engineering  
-☕ Spring Boot and modern Java backend development
+☕ Spring Boot and modern Java backend development  
 🖥️ backend development
 
 ---
